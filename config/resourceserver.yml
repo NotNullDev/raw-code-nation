@@ -1,0 +1,11 @@
+server:
+  port:
+    9000
+
+data:
+  one: hello1!
+  two: hello2!
+  three: |
+    and even 
+    multiline
+    as you can see!
