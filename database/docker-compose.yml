@@ -1,0 +1,17 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  labels:
+    name: postgresql
+spec:
+  selector:
+    matchLabels:
+      name: postgresql
+  template:
+    metadata:
+      name: postgresql
+    spec:
+      containers:
+        - name: postgresql
+          image: postgres:14.3
+          
