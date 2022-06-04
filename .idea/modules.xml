@@ -3,7 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/RawCodeNation.iml" filepath="$PROJECT_DIR$/.idea/RawCodeNation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/config.iml" filepath="$PROJECT_DIR$/config/config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/database.iml" filepath="$PROJECT_DIR$/database.iml" />
       <module fileurl="file://$PROJECT_DIR$/frontend-ng.iml" filepath="$PROJECT_DIR$/frontend-ng.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frontend-react.iml" filepath="$PROJECT_DIR$/frontend-react.iml" />
+      <module fileurl="file://$PROJECT_DIR$/resource-server/resource-server.iml" filepath="$PROJECT_DIR$/resource-server/resource-server.iml" />
     </modules>
   </component>
 </project>
