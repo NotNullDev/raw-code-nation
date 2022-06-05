@@ -38,6 +38,9 @@ Table of contents:
 ### FrontendReact
     SPA with MUI as UI library
 
+### NextJS
+    Frontend made with React and MUI using NextJS framework
+
 ### ResourceServer
     Server to store and receive videos and files for courses.
 
@@ -69,10 +72,6 @@ Table of contents:
 - 'rs': resource server
 - 'pg': postgresql env
 
-## ROADMAP
-- [ ] config server
-- [ ] resource server
-- [ ] auth server
-- [ ] postgresql db
-- [ ] tests for the resource server
-    
+## TODO:
+[ ] Learn about React ecosystem (in progress)
+[ ] Use NextJS instead of create-react-app

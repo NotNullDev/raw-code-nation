@@ -181,7 +181,7 @@ export default function Header(props : any) {
                             <SearchIcon />
                         </SearchIconWrapper>
                         <StyledInputBase
-                            placeholder="Search…"
+                            placeholder="Search courses…"
                             inputProps={{ 'aria-label': 'search' }}
                         />
                     </Search>
